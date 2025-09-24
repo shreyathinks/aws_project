@@ -50,25 +50,7 @@ Supports multiple story genres, dynamic character creation, and real-time collab
 ####
 
 <br/>
-
 </details>
-
-## 📸 Project Screenshots
-
-> [!TIP]
-> Experience the intuitive interface and powerful features of our AI storytelling platform.
-
-https://github.com/user-attachments/assets/4ab7053f-aeb4-4c70-800a-5c4b4e8285ba
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2e03f96c-8ce8-4ab2-aed2-75dd31e61eb3" alt="Main Dashboard" width="800"/>
-  <p><em>Main Interface - Story Creation and Character Settings</em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f1e329be-59dc-40cf-80e7-54c3eb9303e7" alt="Advanced Settings" width="800"/>
-  <p><em>Advanced Configuration - Fine-tune AI Parameters</em></p>
-</div>
 
 ## 🌟 Introduction
 

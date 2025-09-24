@@ -1,39 +1,9 @@
 <div align="center"><a name="readme-top"></a>
 
-[![Project Banner](./public/interactive-story-generator-logo.svg)](#)
-
 # 🎭 Interactive Story Generator<br/><h3>AI-Powered Collaborative Storytelling Platform</h3>
 
 An innovative storytelling platform that leverages cutting-edge AI technology to create engaging, interactive narratives.<br/>
 Supports multiple story genres, dynamic character creation, and real-time collaborative storytelling.<br/>
-One-click **FREE** deployment of your personalized story generator.
-
-[Live Demo][demo-site] · [Documentation][docs] · [Issues][github-issues-link] · [Contributing][contributing-guide]
-
-<br/>
-
-[![🚀 Try It Live 🚀](https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80Try%20It%20Live%F0%9F%9A%80&color=000000&height=60&gradientType=radial&duration=6s&color0=ffffff&template=pride-rainbow)][demo-site]
-
-<br/>
-
-<!-- SHIELD GROUP -->
-
-[![][github-release-shield]][github-release-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]<br/>
-[![][python-shield]][python-link]
-[![][gradio-shield]][gradio-link]
-[![][huggingface-shield]][huggingface-link]
-[![][pytorch-shield]][pytorch-link]
-
-**Share Interactive Story Generator**
-
-[![][share-x-shield]][share-x-link]
-[![][share-linkedin-shield]][share-linkedin-link]
-[![][share-reddit-shield]][share-reddit-link]
-[![][share-telegram-shield]][share-telegram-link]
 
 <sup>🌟 Revolutionizing creative storytelling through AI collaboration. Built for writers, creators, and storytelling enthusiasts.</sup>
 
@@ -473,34 +443,6 @@ CHARACTER_TEMPLATES = {
 - **Romance**: Emotional connections, relationship dynamics
 - **Horror**: Supernatural elements, suspenseful atmosphere
 
-## ⌨️ Development
-
-**Setup Development Environment:**
-
-```bash
-# Clone repository
-git clone https://github.com/ChanMeng666/interactive-story-generator.git
-cd interactive-story-generator
-
-# Install development dependencies
-pip install -r requirements.txt
-
-# Run in development mode
-python app.py
-```
-
-**Development Scripts:**
-
-```bash
-# Start development server
-python app.py
-
-# Run with debug mode
-DEBUG_MODE=true python app.py
-
-# Test story generation
-python -c "from app import generate_story; print(list(generate_story('test scene', 'Fantasy', 'Adventure', 'test character')))"
-```
 
 **Project Structure:**
 
@@ -544,41 +486,6 @@ We welcome contributions! Here's how you can help improve the Interactive Story 
 
 [![][pr-welcome-shield]][github-issues-link]
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-**License Benefits:**
-- ✅ Commercial use allowed
-- ✅ Modification allowed
-- ✅ Distribution allowed
-- ✅ Private use allowed
-
-## 👥 Author
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ChanMeng666">
-          <img src="https://github.com/ChanMeng666.png?size=100" width="100px;" alt="Chan Meng"/>
-          <br />
-          <sub><b>Chan Meng</b></sub>
-        </a>
-        <br />
-        <small>Creator & Lead Developer</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-**Contact Information:**
-- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"> GitHub: [ChanMeng666](https://github.com/ChanMeng666)
-- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16"> LinkedIn: [chanmeng666](https://www.linkedin.com/in/chanmeng666/)
-- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"> Email: [chanmeng.dev@gmail.com](mailto:chanmeng.dev@gmail.com)
-- <img src="https://cdn.simpleicons.org/internetexplorer/0078D4" width="16" height="16"> Portfolio: [chanmeng.live](https://2d-portfolio-eta.vercel.app/)
-
----
 
 <div align="center">
 <strong>🎭 Pioneering AI-Powered Storytelling 🌟</strong>
@@ -588,64 +495,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ⭐ **Star us on GitHub** • 📖 **Read the Documentation** • 🐛 **Report Issues** • 💡 **Request Features** • 🤝 **Contribute**
 
-<br/><br/>
-
-**Made with ❤️ by [Chan Meng](https://github.com/ChanMeng666)**
-
-<img src="https://img.shields.io/github/stars/ChanMeng666/interactive-story-generator?style=social" alt="GitHub stars">
-<img src="https://img.shields.io/github/forks/ChanMeng666/interactive-story-generator?style=social" alt="GitHub forks">
-
-</div>
 
 ---
 
-<!-- LINK DEFINITIONS -->
 
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-
-<!-- Project Links -->
-[demo-site]: https://huggingface.co/spaces/ChanMeng666/interactive-story-generator
-[docs]: https://github.com/ChanMeng666/interactive-story-generator/blob/main/README.md
-[contributing-guide]: https://github.com/ChanMeng666/interactive-story-generator/blob/main/CODE_OF_CONDUCT.md
-
-<!-- GitHub Links -->
-[github-issues-link]: https://github.com/ChanMeng666/interactive-story-generator/issues
-[github-stars-link]: https://github.com/ChanMeng666/interactive-story-generator/stargazers
-[github-forks-link]: https://github.com/ChanMeng666/interactive-story-generator/forks
-[github-release-link]: https://github.com/ChanMeng666/interactive-story-generator/releases
-[github-license-link]: https://github.com/ChanMeng666/interactive-story-generator/blob/main/LICENSE
-
-<!-- Tech Stack Links -->
-[python-link]: https://python.org
-[gradio-link]: https://gradio.app
-[huggingface-link]: https://huggingface.co
-[pytorch-link]: https://pytorch.org
-
-<!-- Shield Badges -->
-[github-release-shield]: https://img.shields.io/github/v/release/ChanMeng666/interactive-story-generator?color=369eff&labelColor=black&logo=github&style=flat-square
-[github-stars-shield]: https://img.shields.io/github/stars/ChanMeng666/interactive-story-generator?color=ffcb47&labelColor=black&style=flat-square
-[github-forks-shield]: https://img.shields.io/github/forks/ChanMeng666/interactive-story-generator?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-shield]: https://img.shields.io/github/issues/ChanMeng666/interactive-story-generator?color=ff80eb&labelColor=black&style=flat-square
-[github-license-shield]: https://img.shields.io/badge/license-Apache%202.0-white?labelColor=black&style=flat-square
-
-[python-shield]: https://img.shields.io/badge/python-%3E%3D3.8-blue?style=flat-square&logo=python&logoColor=white
-[gradio-shield]: https://img.shields.io/badge/gradio-4.44.1-orange?style=flat-square&logo=gradio&logoColor=white
-[huggingface-shield]: https://img.shields.io/badge/huggingface-0.25.2-yellow?style=flat-square&logo=huggingface&logoColor=white
-[pytorch-shield]: https://img.shields.io/badge/pytorch-2.2.1-red?style=flat-square&logo=pytorch&logoColor=white
-
-[pr-welcome-shield]: https://img.shields.io/badge/🤝_PRs_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
-
-<!-- Badge Variants -->
-[demo-shield-badge]: https://img.shields.io/badge/TRY%20DEMO-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
-[github-shield-badge]: https://img.shields.io/badge/STAR%20ON-GITHUB-181717?labelColor=black&logo=github&style=for-the-badge
-
-<!-- Social Share Links -->
-[share-x-link]: https://x.com/intent/tweet?hashtags=AI,storytelling,opensource&text=Check%20out%20this%20amazing%20AI%20story%20generator&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Finteractive-story-generator
-[share-linkedin-link]: https://linkedin.com/sharing/share-offsite/?url=https://github.com/ChanMeng666/interactive-story-generator
-[share-reddit-link]: https://www.reddit.com/submit?title=Interactive%20Story%20Generator%20-%20AI%20Powered%20Storytelling&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Finteractive-story-generator
-[share-telegram-link]: https://t.me/share/url?text=Check%20out%20this%20AI%20story%20generator&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Finteractive-story-generator
-
-[share-x-shield]: https://img.shields.io/badge/-share%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
-[share-linkedin-shield]: https://img.shields.io/badge/-share%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
-[share-reddit-shield]: https://img.shields.io/badge/-share%20on%20reddit-black?labelColor=black&logo=reddit&logoColor=white&style=flat-square
-[share-telegram-shield]: https://img.shields.io/badge/-share%20on%20telegram-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square

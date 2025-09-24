@@ -245,7 +245,7 @@ sequenceDiagram
 **1. Clone Repository**
 
 ```bash
-git clone https://github.com/ChanMeng666/interactive-story-generator.git
+git clone https://github.com/shreyathinks/aws_project.git
 cd interactive-story-generator
 ```
 
@@ -297,10 +297,6 @@ DEBUG_MODE=false
 ## 🛳 Deployment
 
 ### `A` Hugging Face Spaces
-
-**One-Click Deployment:**
-
-[![Deploy to Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/deploy-to-spaces-sm.svg)](https://huggingface.co/spaces/ChanMeng666/interactive-story-generator)
 
 **Manual Deployment:**
 

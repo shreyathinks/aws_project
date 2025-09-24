@@ -422,38 +422,8 @@ interactive-story-generator/
 ├── stories/                 # Generated story files
 ├── public/                  # Static assets
 │   └── interactive-story-generator-logo.svg
-├── README.md               # Project documentation
-├── LICENSE                 # Apache 2.0 License
-└── CODE_OF_CONDUCT.md     # Community guidelines
+└──README.md               # Project documentation
 ```
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help improve the Interactive Story Generator:
-
-**Ways to Contribute:**
-- 🐛 **Bug Reports**: Help identify and fix issues
-- 💡 **Feature Requests**: Suggest new capabilities
-- 📚 **Documentation**: Improve guides and examples
-- 🔧 **Code Contributions**: Submit pull requests
-- 🎨 **UI/UX Improvements**: Enhance user experience
-
-**Development Process:**
-
-1. **Fork the Repository**
-2. **Create Feature Branch**: `git checkout -b feature/amazing-feature`
-3. **Make Changes**: Follow coding standards
-4. **Add Tests**: Ensure functionality works
-5. **Submit PR**: Include clear description
-
-**Contribution Guidelines:**
-- Follow Python PEP 8 style guidelines
-- Add docstrings for new functions
-- Include tests for new features
-- Update documentation as needed
-
-[![][pr-welcome-shield]][github-issues-link]
-
 
 <div align="center">
 <strong>🎭 Pioneering AI-Powered Storytelling 🌟</strong>
